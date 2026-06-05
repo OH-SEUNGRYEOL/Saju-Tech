@@ -1,0 +1,6 @@
+{
+  "name": "Saju-Tech",
+  "description": "An AI-powered traditional Saju analysis and wellness curation dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
